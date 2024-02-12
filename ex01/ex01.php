@@ -32,6 +32,7 @@
                 echo "<p>$soma é igual a $valorC</p>";
             }
         ?>
+        <a href="javascript:history.go(-1)">Voltar para a página anterior</a>
     </main>
 </body>
 </html>
